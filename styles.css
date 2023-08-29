@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.par:nth-child(odd){
+p.par:nth-child(odd){
 	color:#00f;
 	background-color:#eee;
 	font-family:Arial;
